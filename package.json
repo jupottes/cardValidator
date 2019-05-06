@@ -1,0 +1,30 @@
+{
+  "name": "cardvalidator-pottes",
+  "version": "1.0.0",
+  "description": "Valide este cartão v2.0.0\r Esta biblioteca verifica e informa se um número de cartão de crédito é válido.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "nyc mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jupottes/cardValidator.git"
+  },
+  "author": "Ju Pottes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jupottes/cardValidator/issues"
+  },
+  "homepage": "https://github.com/jupottes/cardValidator#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^5.16.0",
+    "mocha": "^6.1.4",
+    "nyc": "^14.1.0"
+  }
+}

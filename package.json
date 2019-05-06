@@ -1,8 +1,8 @@
 {
   "name": "cardvalidator-pottes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Valide este cartão v2.0.0\r Esta biblioteca verifica e informa se um número de cartão de crédito é válido.",
-  "main": "index.js",
+  "main": "./lib/index.js",
   "directories": {
     "lib": "lib",
     "test": "test"

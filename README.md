@@ -1,4 +1,4 @@
-# Validador de Cartão de Crédito v.1.0.0
+# Validador de Cartão de Crédito v.1.0.1
 
 **Esta biblioteca se destina à validação de Cartão de Crédito, para uso em aplicações web.**
 Na versão atual valida números de Cartão de Crédito a partir do Algorítimo de Luhn.
@@ -20,5 +20,5 @@ $  npm i cardvalidator-pottes
 
 ## roadmap oficial do projeto
 
-#### versão 1.0.0 (released)
+#### versão 1.0.1 (released)
 - funcionalidades: validação de Cartão de Crédito
